@@ -1,6 +1,6 @@
 # Vue2.0
 Projects about vue.js
-##知乎日报Web APP---zhihudaily目录
+##知乎日报Web APP
 - 该项目使用vue-cli构建、打包，采用vue+vue-router+vuex技术进行开发，使用axios进行网络请求，后台使用Node.js作中转，
 实现跨域访问知乎日报API，部署上线。
 - 子目录zhihudailyfrontenddev是前端的源码，下载后安装依赖的模块，npm run dev即可。
